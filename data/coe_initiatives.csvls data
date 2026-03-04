@@ -1,0 +1,12 @@
+Initiative_ID,Initiative_Name,Owner,Department,Start_Date,End_Date,Status,KPI_Target,KPI_Achieved,Business_Benefit_Value,Business_Benefit_Unit
+COE-001,OEE Improvement Line-3,Ananya Rao,Manufacturing,2025-11-01,2026-01-31,On Track,85,82,75,₹ Lakhs
+COE-002,Deviation Reduction (QMS),Ravi Kumar,Quality,2025-10-10,2025-12-31,Completed,30,28,12,% Improvement
+COE-003,Right First Time Batch Records,Meera Iyer,Manufacturing,2025-12-01,2026-02-28,Delayed,95,89,1.2,₹ Crores
+COE-004,Procurement Cycle Time Reduction,Ajay Singh,Supply Chain,2025-09-15,2025-12-15,Completed,20,22,40,₹ Lakhs
+COE-005,Energy Cost Optimization Plant A,Divya Nair,Utilities,2025-10-01,2026-01-15,On Track,10,8,18,₹ Lakhs
+COE-006,Warehouse Picking Accuracy,Vikram Shah,Logistics,2025-11-20,2026-02-10,On Track,99,98,9,% Improvement
+COE-007,On Time Vendor Delivery Program,Neha Gupta,Supply Chain,2025-09-01,2025-11-30,Delayed,92,90,25,₹ Lakhs
+COE-008,Complaint Closure TAT Reduction,Suresh Menon,Customer Quality,2025-10-05,,On Track,15,12,6,% Improvement
+COE-009,Preventive Maintenance Compliance,Priya Das,Engineering,2025-11-01,2026-01-10,Delayed,90,83,30,₹ Lakhs
+COE-010,Finance AP Reconciliation Accuracy,Ravi Kumar,Finance,2025-12-10,2026-02-20,On Track,98,96,20,₹ Lakhs
+

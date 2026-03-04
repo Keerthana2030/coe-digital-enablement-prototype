@@ -1,0 +1,22 @@
+[
+  {
+    "source": "01_lean_principles.md",
+    "chunk_index": 0,
+    "text": "# Lean Principles (COE Reference)\n\nLean is a continuous improvement approach focused on maximizing customer value while minimizing waste. In a COE context, Lean is used to simplify workflows, reduce handoffs, and eliminate rework.\n\nCommon wastes include:\n- Waiting: approvals or idle queues\n- Defects or rework\n- Over-processing\n- Excess movement of information\n- Work-in-progress backlog\n\nKey Lean methods used in COE programs:\n- Value Stream Mapping\n- Standard Work\n- Kaizen improvements\n- Visual management dashboards\n- Root cause analysis\n\nExample:\nIf deviation closures are delayed, Lean helps identify bottlenecks, simplify approvals, and standardize documentation."
+  },
+  {
+    "source": "02_six_sigma_overview.md",
+    "chunk_index": 0,
+    "text": "# Six Sigma Overview (COE Reference)\n\nSix Sigma is a structured methodology used to reduce process variation and defects using data.\n\nDMAIC process:\nDefine – Identify the problem and scope  \nMeasure – Collect baseline data  \nAnalyze – Identify root causes  \nImprove – Implement solutions  \nControl – Sustain improvements with monitoring\n\nCOE applications:\n- deviation reduction\n- batch record accuracy\n- complaint cycle time improvement\n- quality compliance metrics"
+  },
+  {
+    "source": "03_excellence_frameworks.md",
+    "chunk_index": 0,
+    "text": "# Operational Excellence Frameworks\n\nOperational Excellence ensures organizations deliver consistent outcomes through structured improvement systems.\n\nA COE provides:\n- governance of improvement initiatives\n- standard methodologies\n- performance visibility\n- training and enablement\n\nTypical maturity levels:\nLevel 1 – Ad-hoc improvements  \nLevel 2 – Standard templates and reporting  \nLevel 3 – Portfolio governance and KPI tracking  \nLevel 4 – Continuous optimization with automation and AI"
+  },
+  {
+    "source": "04_kpi_tracking_best_practices.md",
+    "chunk_index": 0,
+    "text": "# KPI Tracking Best Practices\n\nGood KPIs must be measurable, time-bound, and linked to business outcomes.\n\nTypes of KPIs:\nLeading indicators – process metrics like cycle time  \nLagging indicators – results like cost savings\n\nBest practices:\n- define baseline before improvement\n- assign KPI ownership\n- track performance regularly\n- maintain data consistency\n\nCOE dashboards help leadership monitor initiative progress and identify risks early."
+  }
+]
