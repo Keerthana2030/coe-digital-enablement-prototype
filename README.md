@@ -78,7 +78,7 @@ User questions are first converted into embeddings, relevant document chunks are
 <img width="524" height="1347" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/8fc15300-b869-439a-b12f-d3284d5c7770" />
 
 
-
+### Architecture Walk Through
 <img width="2816" height="1536" alt="Gemini_Generated_Image_52no2s52no2s52no" src="https://github.com/user-attachments/assets/97694d34-9759-4b66-a629-8714a8d0d260" />
 
 # Demo
@@ -223,3 +223,4 @@ Aspiring AI/ML Engineer
 GitHub: https://github.com/Keerthana2030
 LinkedIn: www.linkedin.com/in/keerthana-velukati-367710250
 Email: keerthanavelukati@gmail.com
+
