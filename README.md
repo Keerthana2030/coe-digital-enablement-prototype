@@ -220,7 +220,8 @@ Possible enhancements include:
 B.Tech – Artificial Intelligence & Machine Learning  
 Aspiring AI/ML Engineer
 
-GitHub: https://github.com/Keerthana2030
-LinkedIn: www.linkedin.com/in/keerthana-velukati-367710250
-Email: keerthanavelukati@gmail.com
+- GitHub: https://github.com/Keerthana2030
+- LinkedIn: www.linkedin.com/in/keerthana-velukati-367710250
+- Email: keerthanavelukati@gmail.com
+
 
