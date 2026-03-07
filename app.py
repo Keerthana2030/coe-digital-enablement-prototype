@@ -1,11 +1,3 @@
-# app.py — FINAL (Replace entire file)
-# COE Dashboard + Chatbot-style RAG (FAISS + SentenceTransformers) + OpenAI answer generation
-# Matches assignment requirements:
-# ✅ Top-3 retrieval (always)
-# ✅ Show retrieved text alongside final answer (Evidence expander)
-# ✅ LLM-based answer generation (OpenAI; falls back safely if key missing)
-# ✅ Basic confidence score (similarity score + label)
-
 from datetime import datetime
 import os
 import json
