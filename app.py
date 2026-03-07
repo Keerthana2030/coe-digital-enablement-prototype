@@ -35,7 +35,7 @@ SIM_MED = 0.40  # below this => REFUSE
 
 REFUSAL_LINE = "Not enough information in the provided documents."
 
-# OpenAI model (you can change this)
+
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 
 # -----------------------------
